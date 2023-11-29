@@ -1,0 +1,10 @@
+__pycache__/
+generated/
+.DS_Store
+.*.swp
+/src/yolov5
+*.cache
+
+
+/models
+/data

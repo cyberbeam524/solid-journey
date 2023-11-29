@@ -1,0 +1,1 @@
+<View><Image name="image" value="$image" zoomControl="true" zoom="true"/><RectangleLabels name="label" toName="image"><Label value="squirrel" background="#FF0000"/></RectangleLabels></View>
